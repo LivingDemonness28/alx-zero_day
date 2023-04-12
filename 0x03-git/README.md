@@ -1,1 +1,1 @@
-My second readme
+I am an aspiring full-stack developer
